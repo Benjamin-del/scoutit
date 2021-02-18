@@ -2,7 +2,7 @@ At ScoutIT, accessible from https://scouti.tk/, one of our main priorities is th
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in ScoutIT. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in ScoutIT. This policy is not applicable to any information collected offline or via channels other than this website.
 
 Consent
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
@@ -75,4 +75,4 @@ If you make a request, we have one month to respond to you. If you would like to
 Children's Information
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-ScoutIT does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+![]({{site.baseurl}}/wiki/scoutit.png)
