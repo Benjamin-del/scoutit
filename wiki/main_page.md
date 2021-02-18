@@ -3,6 +3,8 @@ redirect_from: /
 published: true
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+Welcome to ScoutIT wiki!
+To create a new page select create a new page under prose.io! 
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)!
+
+![Scoutit.png]({{site.baseurl}}/wiki/Scoutit.png)
