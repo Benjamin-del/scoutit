@@ -7,6 +7,5 @@ Welcome to scoutIT! When you are here please abide by some rules!
 
 
 Admin team
-![]({{site.baseurl}}/assets/images/scoutit.png)
-
+![Scoutit.png]({{site.baseurl}}/wiki/Scoutit.png)
 I made this image 2020 me!
