@@ -12,6 +12,6 @@ ScoutIT camp maps is an open-sorce project. You can create your own version of t
 
 2. Enable github pages. Go into the settings and select github pages. If you are using glitch your project this step is already done!
 
-3. You are done! You can now add and change positions in of markers! 
+3. You are done! You can now add and change positions in of markers!
 
-
+I find glitch is easier for beginners to understand. Github Has more features though. 
