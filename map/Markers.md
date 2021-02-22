@@ -21,4 +21,8 @@ Example of a marker code:
 
 
 
+Change your third line on script.js file
 
+				mapboxgl.accessToken =
+  				// Your token goes here. This will not work on your site. se more at https://scouti.tk/maptokens
+  				"##.YOUR TOKEN HERE!!!!";
