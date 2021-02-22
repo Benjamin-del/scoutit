@@ -1,4 +1,9 @@
-##Geting started
+## Geting started
+
+Requirments 
+1. A github OR glitch account.
+2. A Mapbox accses token. [https://scouti.tk/maptokens](https://scouti.tk/maptokens)
+3. Computer
 
 ScoutIT camp maps is an open-sorce project. You can create your own version of the map! 
 
