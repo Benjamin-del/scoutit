@@ -50,3 +50,48 @@ Example of a marker code:
  
 **YOU NEED TO HAVE A MAPBOX  ACCSES TOKEN! LEARN MORE AT: [https://scouti.tk/maptokens](https://scouti.tk/maptokens)**
 
+## Images.
+To change the map markers replace marker.png in /images to your image
+To change the favicon replace favicon.ico with your image.
+
+## Map styles
+line 7 = Map Style
+line 8 = Onload center
+line 9 = Onload zoom 
+
+   Example: I used the satilite style:
+ 
+	var map = new mapboxgl.Map({
+  	container: "map",
+  	style: "mapbox://styles/mapbox/satellite-v9",
+  	center: [-76.469368, 44.77903],
+  	zoom: 6
+	});
+
+List of styles: [https://docs.mapbox.com/api/maps/styles/#mapbox-styles](https://docs.mapbox.com/api/maps/styles/#mapbox-styles)
+
+## Public views 
+(Index.html / home.html)
+
+ScoutIT campmaps comes with all of the required images. I ask that you change favicon.ico file. The markers you can keep.
+
+Index.html
+This page is not in use. It will redirect to home.html.
+
+Home.html 
+This page can be edited and changed. If you dont want it un-comment line 8
+
+ 				<!--<meta http-equiv="refresh" content="0;url=map" /> -->
+ TO
+
+ 				<meta http-equiv="refresh" content="0;url=map"/>
+                
+                
+ Beta.html.
+ This page is not edditable (I Used a different application to build it) You can just delete it.
+ If you do delete it comment/remove line 25 in home.html
+ 
+ 
+ 
+ 
+                
