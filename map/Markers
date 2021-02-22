@@ -1,0 +1,25 @@
+## Map Markers
+
+1. The script.js file is setup so it is easy to edit. 
+
+Example of a marker code:
+    
+    {
+      type: "Feature",
+      geometry: {
+        type: "Point",
+        coordinates: [LAT, LONG] GO HERE
+      },
+      properties: {
+        title: " TITLE GOES HERE",
+        description:
+          '<a href="WEBSITE">WEBSITE TITLE</a>'
+      }
+    },
+    
+ 
+**YOU NEED TO HAVE A MAPBOX  ACCSES TOKEN! LEARN MORE AT: [https://scouti.tk/maptokens](https://scouti.tk/maptokens)**
+
+
+
+
