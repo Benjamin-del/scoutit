@@ -1,4 +1,4 @@
-## COMUNITY RULES
+## Community rules
 
 Welcome to scoutIT! When you are here please abide by some rules!
 
