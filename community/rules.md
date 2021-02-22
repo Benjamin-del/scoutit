@@ -1,3 +1,5 @@
+## COMUNITY RULES
+
 Welcome to scoutIT! When you are here please abide by some rules!
 
 - Please stay respectful! - If you dont like it don't leave a nasty comment! Please be nice!
