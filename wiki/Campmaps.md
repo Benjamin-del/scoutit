@@ -1,4 +1,4 @@
-## Camp maps
+## ScoutIT campmaps.
 
 This article refers to the creation of personal scoutIT map clones. 
 
