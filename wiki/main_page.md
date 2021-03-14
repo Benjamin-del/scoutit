@@ -10,4 +10,4 @@ To create a new page select create a new page under prose.io!
 Thanks,
 Admin team!
 
-![Scoutit.png]({{site.baseurl}}/wiki/Scoutit.png)
+![]({{site.baseurl}}/https://files.benja.ml/scoutit/docs/Scoutit.png)
